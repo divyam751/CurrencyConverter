@@ -1,4 +1,5 @@
-# Currency Converter
+# <img src="https://github.com/divyam751/CurrencyConverter/assets/125983433/57fb1f08-f26d-4039-8e5b-87eee85567d3" width="50" alt="Alt Text"> Currency Converter! 
+
 
 This is a simple and stylish currency converter web application that allows users to quickly get exchange rates between different currencies. Users can select the source currency, target currency, and enter the amount to get an instant conversion.
 
@@ -26,7 +27,7 @@ This is a simple and stylish currency converter web application that allows user
 
 ## Usage
 
-1. Open the [Currency Converter](#) in your web browser.
+1. Open the [Currency Converter](https://dc-currency-converter.vercel.app/) in your web browser.
 2. Enter the amount you want to convert in the "Enter Amount" field.
 3. Select the source currency from the "From" dropdown.
 4. Select the target currency from the "To" dropdown.
@@ -37,4 +38,7 @@ Feel free to explore and make currency conversions with ease!
 
 ## Deployed Link
 
-Visit the [Currency Converter](#) live at [Deployed Link](#).
+Visit the [Currency Converter](https://dc-currency-converter.vercel.app/) live at [https://dc-currency-converter.vercel.app/](https://dc-currency-converter.vercel.app/).
+
+
+![image](https://github.com/divyam751/CurrencyConverter/assets/125983433/f4cfbef5-3646-44c4-ad00-3ca4a120b419)
